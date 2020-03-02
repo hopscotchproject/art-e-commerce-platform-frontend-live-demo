@@ -14,4 +14,4 @@ var t=arguments[3];Object.defineProperty(exports,"__esModule",{value:!0}),export
 },{"./components/Main":"w4cu"}],"S3PC":[function(require,module,exports) {
 "use strict";var e=a(require("vue")),r=a(require("vue-router")),u=a(require("./src/App")),t=a(require("./src/routes"));function a(e){return e&&e.__esModule?e:{default:e}}e.default.use(r.default);var n=new r.default({routes:t.default});new e.default({router:n,render:function(e){return e(u.default)}}).$mount("#app");
 },{"vue":"QPfz","vue-router":"ov28","./src/App":"yuya","./src/routes":"xyfS"}]},{},["S3PC"], null)
-//# sourceMappingURL=/art-e-commerce-platform-frontend.e549eca0.js.map
+//# sourceMappingURL=/art-e-commerce-platform-frontend-live-demo/art-e-commerce-platform-frontend.e549eca0.js.map
